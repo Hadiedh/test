@@ -1,1 +1,1 @@
-console.log("Hi github I am Hadi")
+console.log("github training")
